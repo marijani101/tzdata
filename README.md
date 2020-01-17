@@ -1,5 +1,9 @@
 # tzdata
-list of areas to get data on tanzania (awesome-list)
+list of areas to get data on tanzania (awesome-list) (in progress)
+#### Current Status:
+using this readme as a data dump 
+
+Contributions are welcome via pull requests
 
 ## community survey
 
