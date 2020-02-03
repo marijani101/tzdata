@@ -1,4 +1,4 @@
-{ 
+words = {{ 
  "nene": {  "matchMethod" : 0, "repeat" : true, "sub" : "maumbile ya kiume" },
 "wewe": {  "matchMethod" : 0, "repeat" : true, "sub" : "maumbile ya kiume" },
 "pepe": {  "matchMethod" : 0, "repeat" : true, "sub" : "__" },
@@ -7,4 +7,4 @@
 "keke": {  "matchMethod" : 1, "repeat" : true, "sub" : "gay" },
 "dede": {  "matchMethod" : 1, "repeat" : true, "sub" : "gay" },
 "aeae": {  "matchMethod" : 1, "repeat" : true, "sub" : "gay" }
-}
+}}
