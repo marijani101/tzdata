@@ -1,10 +1,17 @@
-# tzdata
-list of areas to get data on tanzania (awesome-list) (in progress)
-#### Current Status:
-using this readme as a data dump 
-
-Contributions are welcome via pull requests
 # Data on Tanzania
+
+#### Current Status:
+>Using this README as a data dump
+
+>Contributions are welcome via pull requests
+- [Data on Tanzania](#data-on-tanzania)
+      - [Current Status:](#current-status)
+  - [LAND & ENERGY](#land--energy)
+  - [LAW & LEGAL MATTERS](#law--legal-matters)
+  - [FINANCE](#finance)
+  - [COMBINED REPOSITORIES](#combined-repositories)
+  - [HEALTH](#health)
+  - [POPULATION & SOCIAL DEVELOPMENT](#population--social-development)
 
 ## LAND & ENERGY
 
