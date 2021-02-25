@@ -1,4 +1,5 @@
 # Data on Tanzania
+[![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
 
 #### Current Status:
 >Using this README as a data dump
