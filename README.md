@@ -36,7 +36,7 @@
 - [Bank of Tanzania](https://www.bot.go.tz/ "BOT")
 
 ## COMBINED REPOSITORIES
-
+- [openData Tanzania] (https://africaopendata.org/harvest/opendata-go-tz)
 - [Unicef](https://www.unicef.org/tanzania/reports "UN")
 - [Unicef data repository on Tanzania](https://data.unicef.org/country/tza/ "UN")
 - [The Humanitarian Data Exchange](https://data.humdata.org/search?q=tanzania "HDX")
